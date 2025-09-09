@@ -1,0 +1,72 @@
+@import url(https://fonts.googleapis.com/css?family=Reenie+Beanie);
+
+h1 {
+  color: rgb(7, 222, 122);
+  text-align: center;
+  background-color: rgb(95, 127, 14);
+  margin-left: 500px;
+  margin-right: 500px;
+}
+h2 {
+  text-align: center;
+}
+p {
+  text-align: center;
+  background-color: rgb(13, 204, 71);
+    padding: 30px;
+  border: 1px solid black;
+    border-radius: 10px;
+  font-size: 30px;
+
+
+}
+img {
+    height: 30%;
+  width: 80%;
+  margin-top: -1px;
+  margin-bottom: -4px;
+  border-right: 20px solid rgb(30, 176, 57);
+  border-left: 20px solid rgb(140, 209, 3);
+  border-bottom: 20px solid rgb(32, 198, 68);
+  border-top: 20px solid rgb(79, 190, 23);
+
+}
+body {
+  text-align: center;
+  background-color: rgb(138, 191, 39);
+  border-style: double;
+  border-width: 28px;
+  border-color: lightgreen;
+  font-style: oblique;
+  width: 100%;
+  font-family: 'Reenie Beanie';
+  background-image: 'LEaves.png';
+  
+}
+p2 {
+  color: blue;
+  text-align: center;
+  margin-left: 1000px;
+}
+span{
+  font-weight: bold;
+  font-style: italic;
+
+}
+head{
+  width: 500px;
+}
+a{
+  font-size: 25px;
+}
+header{
+  background-color: greenyellow;
+}
+span1{
+  font-size: 35px;
+  margin-right: 80%;
+}
+span2{
+  font-size: 25px;
+  margin-top: 60px;
+}
